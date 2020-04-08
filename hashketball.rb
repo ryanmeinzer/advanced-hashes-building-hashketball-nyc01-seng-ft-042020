@@ -19,8 +19,6 @@ hashketball_hash => {
       :blocks => "",
       :slam_dunks => ""
       },
-      {player2-stats},
-      {player3-stats}
     ]
   },
 
