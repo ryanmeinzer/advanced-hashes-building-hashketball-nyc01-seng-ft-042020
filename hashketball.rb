@@ -18,7 +18,7 @@ hashketball_hash => {
       :steals => "",
       :blocks => "",
       :slam_dunks => ""
-      },
+      }
     ]
   },
 
