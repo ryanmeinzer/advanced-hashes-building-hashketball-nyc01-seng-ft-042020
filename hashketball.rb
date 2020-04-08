@@ -4,18 +4,9 @@ def game_hash
 
 hashketball_hash = {
 
+  :home => {}
 
-
-:home => {
-
-
-}
-
-:away => {
-
-
-}
-
+  :away => {}
 
 }
 
