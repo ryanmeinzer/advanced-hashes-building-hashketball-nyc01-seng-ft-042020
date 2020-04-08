@@ -6,12 +6,12 @@ hashketball_hash = {
 
 
 
-home: {
+:home => {
 
 
 }
 
-away: {
+:away => {
 
 
 }
