@@ -22,7 +22,7 @@ hashketball_hash => {
         {player2-stats}
         {player3-stats}
     ]
-  }
+  },
 
   :away => {}
 
