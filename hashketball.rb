@@ -8,19 +8,19 @@ hashketball_hash => {
     :team_name => "",
     :colors => [teams-colors],
     :players => [
-        {
-        :player_name => "",
-        :number => "",
-        :shoe => "",
-        :points => "",
-        :rebounds => "",
-        :assists => "",
-        :steals => "",
-        :blocks => "",
-        :slam_dunks => ""
-        }
-        {player2-stats}
-        {player3-stats}
+      {
+      :player_name => "",
+      :number => "",
+      :shoe => "",
+      :points => "",
+      :rebounds => "",
+      :assists => "",
+      :steals => "",
+      :blocks => "",
+      :slam_dunks => ""
+      },
+      {player2-stats},
+      {player3-stats}
     ]
   },
 
