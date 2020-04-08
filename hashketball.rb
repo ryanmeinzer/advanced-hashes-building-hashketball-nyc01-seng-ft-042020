@@ -23,7 +23,6 @@ hashketball_hash => {
       }
     ]
   },
-
   :away =>
   {
   }
